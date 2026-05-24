@@ -37,6 +37,7 @@ Junior developer roles, internships, or freelance projects where I can contribut
 ---
 
 🤝 Let’s connect
+
 LinkedIn: https://www.linkedin.com/in/abhinav-baral-126a071ba/  
 Email: abhinavbaral@gmail.com  
 Location: Nepal · Open to remote
