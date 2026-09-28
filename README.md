@@ -48,9 +48,9 @@ I build full-stack web and mobile apps that run real operations. Most of my focu
 
 ## Projects
 
-### HR, Attendance & Payroll System
+### HajiriKhata — HR, Attendance & Payroll System
 
-> *Built for a private company in Nepal and used by its staff every day. The source and client are confidential, so this is an overview only.*
+> *Built for Eastern Auto Distributors Pvt. Ltd., an auto spare-parts distributor in Jhapa, Nepal, and used by its staff every day. The source code is confidential, so this is an overview only.*
 
 **Problem:** Attendance and salary were calculated by hand, with rules for late check-ins, lunch overruns, half-days, overtime and field work. Mistakes were constant and disputes were hard to settle.
 **Solution:** An employee mobile app for check-in and check-out plus viewing their own pay, a web admin dashboard, and a REST API. All three share one payroll engine and a dual Nepali **BS / AD** calendar.
@@ -63,7 +63,7 @@ I build full-stack web and mobile apps that run real operations. Most of my focu
 - **Notification pipeline.** WhatsApp Cloud API with a cron-driven outbox queue and duplicate-send protection.
 - **Payslips** printable per employee or for the whole team over any date range.
 
-![Private](https://img.shields.io/badge/Source-Private_·_under_NDA-2b2d35?style=flat-square&logo=github&logoColor=white)
+![Private](https://img.shields.io/badge/Source-Private_·_confidential-2b2d35?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -72,7 +72,6 @@ I build full-stack web and mobile apps that run real operations. Most of my focu
 > *React (Vite) + Express. Organised around four disciplines: Frontend, Backend, Mobile, Words.*
 
 - Two-axis theme system (light/dark × crimson/lime accent)
-- WCAG AA contrast verified in every theme
 - Honest proficiency levels instead of fake percentage bars
 
 [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=googlechrome&logoColor=white)](https://abhinavbaral.com.np)
