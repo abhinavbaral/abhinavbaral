@@ -20,9 +20,9 @@
 
 <div align="center">
 
-| **In Production** | **Full-Stack & Mobile** | **Final-Year BCA** | **Open to Work** |
+| **In Production** | **Full-Stack & Mobile** | **Open to Work** |**Final-Year BCA** | 
 |:---:|:---:|:---:|:---:|
-| Payroll system in daily use | React · React Native · Node.js | Model Campus Damak · TU | Junior roles · Freelance |
+| Payroll system in daily use | React · React Native · Node.js | Junior roles · Freelance | Model Campus Damak · TU |
 
 </div>
 
@@ -81,9 +81,9 @@ I build full-stack web and mobile apps that run real operations. Most of my focu
 
 ## Currently
 
-- 🔨 Building a media-tracking app (anime, manga, film) with an Express backend and a hand-written recommendation algorithm
-- 📚 Learning system design, database optimisation and DevOps fundamentals
-- 💼 Taking freelance web, mobile and technical-writing work
+- Building a media-tracking app with an Express backend and a hand-written recommendation algorithm
+- Learning system design, database optimisation and DevOps fundamentals
+- Taking freelance web, mobile and technical-writing work
 
 ---
 
